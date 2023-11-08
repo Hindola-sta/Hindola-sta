@@ -558,7 +558,7 @@ header.shadow{
         right:0;
         display: flex;
         flex-direction: column;
-        background: var(--second-color);
+        background: burlywood;
         row-gap: 1.4rem;
         padding:20px;
         transition: 0.3s;
