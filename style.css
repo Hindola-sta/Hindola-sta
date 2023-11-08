@@ -253,6 +253,7 @@ header.shadow{
     font-weight: 600;
     text-transform: uppercase;
     margin:0.5rem 0 0.5rem;
+    text-align: center;
 
 }
 .products-container .box .content{
@@ -367,9 +368,17 @@ header.shadow{
 
 }
 .contact1 p{
-    font-size: 25px;
+    font-size: 20px;
     color: burlywood;
-    gap:2.8rem;
+    gap:2rem;
+    margin-bottom: 20px;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+.contact1 p i{
+    font-size: 20px;
+    color: burlywood;
+    gap:2rem;
     margin-bottom: 20px;
     margin-top: 10px;
     margin-left: 20px;
