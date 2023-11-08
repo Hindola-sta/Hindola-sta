@@ -370,18 +370,14 @@ header.shadow{
 .contact1 p{
     font-size: 20px;
     color: burlywood;
-    gap:2rem;
     margin-bottom: 20px;
     margin-top: 10px;
-    margin-left: 20px;
+    
 }
 .contact1 p i{
     font-size: 20px;
     color: burlywood;
-    gap:2rem;
-    margin-bottom: 20px;
-    margin-top: 10px;
-    margin-left: 20px;
+    
 }
 .contact1:hover{
     background: grey;
@@ -623,7 +619,7 @@ header.shadow{
     }
 }
 
-@media (max-width:420px){
+@media (max-width:440px){
     header{
         padding: 11px 4%;
 
@@ -696,10 +692,18 @@ header.shadow{
     
     }
     .contact1 p{
-        font-size: 1rem;
+        font-size:20px;
         width: fit-content;
         text-align: center;
+        margin-bottom: 10px;
+        margin-top: 10px;
+        margin-left: 10px;
     }
+    .contact1 p i{
+    font-size: 20px;
+    color: burlywood;
+    
+}
     .contact1 a {
         color: burlywood;
         font-size: 40px;
